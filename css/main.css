@@ -1,0 +1,30 @@
+body {
+  background-color: slategray;
+}
+
+#boredPlaceholder {
+  border: 12px slategrey solid;
+  /* border-radius: 50%; */
+  height: 350px;
+  width: 376px;
+}
+
+#gitIcon {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  padding-right: 15px;
+}
+
+#twitCon {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  padding-right: 15px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: rgb(47,66,84);
+  color: white;
+}
