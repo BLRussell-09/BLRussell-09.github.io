@@ -53,3 +53,11 @@ li:active {
   padding-right: 5px;
 }
 
+.puppy {
+  height: 286px;
+}
+
+.page-footer {
+  background-color: rgba(63, 32, 179, 0.5);
+  color: white;
+}
