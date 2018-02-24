@@ -23,6 +23,13 @@ body {
   padding-right: 15px;
 }
 
+#emailCon {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  padding-right: 15px;
+}
+
 .jumbotron {
   text-align: center;
   background-color: rgb(47,66,84);
