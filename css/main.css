@@ -46,11 +46,21 @@ h3 {
   text-align: left;
 }
 
+li:hover {
+  background-color: rgb(14, 121, 221);
+  color: white;
+}
+
+a:hover {
+  color: white !important;
+}
+
 li:active {
 
   /* width: 260px; */
   padding-left: 5px;
   padding-right: 5px;
+  color: white;
 }
 
 .puppy {
