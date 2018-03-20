@@ -10,6 +10,12 @@ var blogs = [
     title: "Trouble With Arrays",
     date: " 3.6.18",
     post: "Last week I worked on some challenges involving arrays, and looping through them. It was tricky work, but I managed to find some very helpful array methods to make the tasks a bit easier. Notably the filter method and the map methods were extremely useful to me. I also managed to use the filter method to create an Array prototype called .diff(). The .dif() prototype finds the difference between two arrays, and I was able to use this to solve multiple problems."
+  },
+  {
+    id: "blog3",
+    title: "Projects",
+    date: " 3.13.18",
+    post: "This week we started to work on projects with our groups. Here we got to start having fun, creating new things. We workd on a translator that would return your words to you in either Elvish, Klingon, or Dothraki. I had trouble with mine, returning a new line for every word translated. As it turns out, I needed an internal counter to make it work. I'm starting to more easily put the pieces together from what I've learned so far and use it to solve the problem. This related in a way to a problem that we previously worked on with arrays, the beggars issue. Now if only I were any good at styling the translator would look nice and work well."
   }
 ]
 function prinToDom(stringToPrint,divId){
