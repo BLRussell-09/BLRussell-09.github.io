@@ -1,0 +1,32 @@
+{
+  "projects" : [
+    {
+      "id": "project1",
+      "title": "Project Puppy Power",
+      "imageUrl": "../img/dog.jpg",
+      "description": "my first project",
+      "githubUrl": "https://github.com/BLRussell-09/BLRussell-09.github.io/blob/master/pages/projects.html"
+    },
+    {
+      "id": "project2",
+      "title": "Project Kitty Cabin",
+      "imageUrl": "../img/cat.jpg",
+      "description": "my second project",
+      "githubUrl": "https://github.com/BLRussell-09/BLRussell-09.github.io/blob/master/pages/projects.html"
+    },
+    {
+      "id": "project3",
+      "title": "Project Kitty Cabin",
+      "imageUrl": "../img/cat2.jpg",
+      "description": "my third project",
+      "githubUrl": "https://github.com/BLRussell-09/BLRussell-09.github.io/blob/master/pages/projects.html"
+    },
+    {
+      "id": "project4",
+      "title": "Project Pig Pen",
+      "imageUrl": "../img/piggie.jpg",
+      "description": "my final project",
+      "githubUrl": "https://github.com/BLRussell-09/BLRussell-09.github.io/blob/master/pages/projects.html"
+    }
+  ]
+}
