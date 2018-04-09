@@ -23,6 +23,18 @@
       "title": "Travel-Diary",
       "date": " 3.24.18",
       "post": "This week we worked on the travel diary, and to be honest it's the first project that I've managed to finish in one sitting. Getting the cards to print on the page, was pretty simple, as well as adding a text box to the card. However I had a little trouble printing the new cards out. I treated the problem like spaghetti, throwing every possible solution to the wall to see what stuck. eventually I got the cards to print but no text box, and had to follow the error codes down the rabbit hole. Now my cards print appropriatly and I've started working on a delete button that doesn't work."
+    },
+    {
+      "id": "blog5",
+      "title": "Click Events",
+      "date": " 3.28.18",
+      "post": "I started working on the Solar System assignment, but I havn't finished yet. I went out of town this weekend, and it threw off my work-flow. I've managed to get the planets printing, but have yet to set reliable event listeners for clicking them to reveal a bigger planet page. I will spend some more time on this on, but to be honest it's a little boring, so I'm not feeling quite so motivated to make it awesome!"
+    },
+    {
+      "id": "blog6",
+      "title": "Cage Match",
+      "date": " 4.9.18",
+      "post": "This week's work was a bit easier than I expected. I didn't have much troule with the assignment, however I did learn that looking at raw JSON files will very swiftly give me anxienty. Shout out to Stix, she let me know about a cool little Chrome extension called JSON formatter, which makes the JSON look so much cleaner and easier to understand. This is the first project that I actually like the styling of. Making things pretty isn't my forte, but I really like the way this one turned out."
     }
   ]
 }
