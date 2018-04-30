@@ -35,6 +35,18 @@
       "title": "Cage Match",
       "date": " 4.9.18",
       "post": "This week's work was a bit easier than I expected. I didn't have much troule with the assignment, however I did learn that looking at raw JSON files will very swiftly give me anxienty. Shout out to Stix, she let me know about a cool little Chrome extension called JSON formatter, which makes the JSON look so much cleaner and easier to understand. This is the first project that I actually like the styling of. Making things pretty isn't my forte, but I really like the way this one turned out."
+    },
+    {
+      "id": "blog7",
+      "title": "Task Runners",
+      "date": " 4.17.18",
+      "post": "Right off the bat I didn't like task runners, to be honest I understand their purpose in keeping code consistent and cutting down on syntax errors. However, now I have come around to them, yet I dont like the fact that I can't run the page unless Grunt is satisfied. Grunt has made my code look a bit better over the past couple of weeks, as most of my errors are forgetting to close lines with a semi-colon."
+    },
+    {
+      "id": "blog8",
+      "title": "Chatty",
+      "date": " 4.30.18",
+      "post": "This week we were placed in groups to work on a project emulating a chat client, yet only locally. Working with the group was fun, and we managed to get quite a lot done over the past week. I like working with everyone, though sometimes it can be difficult to wait on someone elses work that you need before you can test yours. One of the tickets I took was an emoji ticket, to get text-emojis working on the site, however I needed a couple evenet listeners to work before I could test if it worked or not. I ended up just making them on my own so I could test the feature. All in all the project wasn't too tough, good work team!"
     }
   ]
 }
