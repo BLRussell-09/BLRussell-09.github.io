@@ -44,9 +44,21 @@
     },
     {
       "id": "blog8",
+      "title": "Modules and Exports",
+      "date": " 4.17.18",
+      "post": "Imagine learning how to paint a portrait on a canvas, you're not great at it, but you get by. Now imagine someone removing the canvas and handing you individually shaped puzzle pieces, now you're instructed to paint again yet this time on the pieces rather than the whole. It takes a bit more thought to avoid circular logic, but the puzzle itself is still fun. It is nicer to have fewer functions on the page and makes the code overall easier on the eyes."
+    },
+    {
+      "id": "blog9",
       "title": "Chatty",
       "date": " 4.30.18",
       "post": "This week we were placed in groups to work on a project emulating a chat client, yet only locally. Working with the group was fun, and we managed to get quite a lot done over the past week. I like working with everyone, though sometimes it can be difficult to wait on someone elses work that you need before you can test yours. One of the tickets I took was an emoji ticket, to get text-emojis working on the site, however I needed a couple evenet listeners to work before I could test if it worked or not. I ended up just making them on my own so I could test the feature. All in all the project wasn't too tough, good work team!"
+    },
+    {
+      "id": "blog10",
+      "title": "JQuery",
+      "date": " 5.15.18",
+      "post": "This week we finally added Jquery to our toolbelts. Since doing the course on treehouse I have been looking forward to using Jquery for now we have been using vanilla javascript, only a month ago moving to es6. It's very nice to write what were once complex functions on one or two lines of code. It makes it easier to concentrate on more taxing puzzles rather than having to spend too much time sorting out the little things. It is important to know the details behind javascript however, knowing how it all works helps develop flexability and extends the range of problems you can solve."
     }
   ]
 }
