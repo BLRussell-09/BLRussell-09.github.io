@@ -59,6 +59,12 @@
       "title": "JQuery",
       "date": " 5.15.18",
       "post": "This week we finally added Jquery to our toolbelts. Since doing the course on treehouse I have been looking forward to using Jquery for now we have been using vanilla javascript, only a month ago moving to es6. It's very nice to write what were once complex functions on one or two lines of code. It makes it easier to concentrate on more taxing puzzles rather than having to spend too much time sorting out the little things. It is important to know the details behind javascript however, knowing how it all works helps develop flexability and extends the range of problems you can solve."
+    },
+    {
+      "id": "blog11",
+      "title": "Promises",
+      "date": " 5.19.18",
+      "post": "I don't understand promises, this week, and elder student told a few of us that she loved promises, and that they were super useful. I know that I do not understand enough about promises to even comprehend why they would be great, or better, or more useful. So far, I gather that promises are a helpful way to call data, merge them together, or manipulate the data, and chain events. Cool. All those things seem useful, but right now, it doesn't seem any better than what we have done in the past. However, I suppose programmers don't make new things unless it's going to make life easier somehow."
     }
   ]
 }
