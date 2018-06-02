@@ -71,6 +71,12 @@
       "title": "API",
       "date": " 5.26.18",
       "post": "Man, lemme tell you somthing. Api's are the shit. Last week I mentioned that I didn't understand promises, but now I'm starting to understand why they would be useful. Api's have opened up a world full of data that's just floating out in the ether, waiting for a $.ajax call to bring them up. Wonder what I could do with all that data. With the skills we have now, I can at least make cards for them. Working with Api's has made things fun again. It's fun to see the results of all this work right now."
+    },
+    {
+      "id": "blog13",
+      "title": "Firebase",
+      "date": " 6.2.18",
+      "post": "Finally, I can make things that work, save data and that I can return too. Firebase hasn't given me too much trouble yet, which could mean that I have no idea what I am doing. However, it is a slow moving process, and I still dont understand all the finer details, however I can get things to post now The past couple weeks of class, things have really gotten alot more fun as we start to make things that can work long-term and on muliple."
     }
   ]
 }
