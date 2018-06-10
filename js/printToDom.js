@@ -12,7 +12,7 @@ const createProjectCards =(projectsHere) =>
   {
     if (element.available == true)
     {
-      output = "<div class='jumbotron'>" + "<span><img class='puppy' src='" + element.imageUrl + "'></span>" + "<h3>" + element.title + "</h3>" + "<article>" + element.description + "</br><a href='" + element.githubUrl + "'>You can find the project here." + "</a></article></div>"
+      output = "<div class='jumbotron'>" + "<span><img class='puppy' src='" + element.imageUrl + "'></span>" + "<h3>" + element.title + "</h3>" + "<article>" + element.description + "</br><a href='" + element.githubUrl + "'>You can find the source code here." + "</a></br><a href='" + element.url + "'>You can find the site here." + "</a></article></div>"
       prinToDom(output, "startHere");
     }
   });

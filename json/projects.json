@@ -25,7 +25,7 @@
       "title": "My Comic Shelf",
       "imageUrl": "../img/piggie.jpg",
       "description": "my final project",
-      "githubUrl": "https://github.com/BLRussell-09/BLRussell-09.github.io/blob/master/pages/projects.html",
+      "githubUrl": "https://github.com/BLRussell-09/myComicShelf",
       "url": "",
       "available": true,
       "technologiesUsed": "HTML, CSS, Javascript, Jquery, AJAX"
