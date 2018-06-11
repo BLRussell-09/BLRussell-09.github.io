@@ -64,6 +64,11 @@
       "title": "Firebase",
       "date": " 6.2.18",
       "post": "Finally, I can make things that work, save data and that I can return too. Firebase hasn't given me too much trouble yet, which could mean that I have no idea what I am doing. However, it is a slow moving process, and I still dont understand all the finer details, however I can get things to post now The past couple weeks of class, things have really gotten alot more fun as we start to make things that can work long-term and on muliple."
+    },
+    {
+      "title": "Oh CRUD",
+      "date": " 6.11.18",
+      "post": "The past couple of weeks we have been working on building CRUD apps, and things have gotten fun. Now that we are using firebase as well we are able to deploy the apps we are working on, so they really exist on the internet rather than just locally. I havn't bought url's yet though so they still have ugly url's that I couldn't be bothered to type in unless someone made a tinyurl of it. Using firebase we were also able to add authentication to our apps, enabling a user to log in and out, and save data to their specific account. Getting all this to work wasn't difficult, however searching the docs to figure out how to log in with various accounts (ex. Google) was a little menacing, it was hard to know which pieces I needed just by the look of it. I took to this like spaghetti and just threw the snippet into my code to see how it did. This actually turned out to be easier than I had previously assumed and I was able to trim off alot of excess 'code fat'. Also just for housekeeping I'm going to be adding a box for this, hopefully I can start making these from the webpage rather than actually updating the code itself."
     }
   ]
 }
