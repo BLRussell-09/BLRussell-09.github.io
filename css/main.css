@@ -71,3 +71,12 @@ li:active {
   background-color: rgba(63, 32, 179, 0.5);
   color: white;
 }
+
+textarea.blogTextField {
+  width: 463px;
+  height: 371px;
+}
+
+button.deleteBlog {
+  margin-top: 1em;
+}

@@ -1,1 +1,3 @@
 retrieveApiKeys();
+saveBlogsEvent();
+deleteBlogsEvent();

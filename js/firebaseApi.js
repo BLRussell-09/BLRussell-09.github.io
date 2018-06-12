@@ -25,3 +25,44 @@ const getBlogs = () =>
     });
   });
 };
+
+const saveBlogs = (newBlog) =>
+{
+  return new Promise((resolve, reject) =>
+  {
+    $.ajax(
+      {
+        method: 'POST',
+        url: `${firebaseConfig.databaseURL}/blogs/blogs.json`,
+        data: JSON.stringify(newBlog),
+      })
+      .done((uniqueKey) =>
+      {
+        resolve(uniqueKey);
+      })
+      .fail((err) =>
+      {
+        reject(err);
+      });
+  });
+};
+
+const deleteBlogs = (blogId) =>
+{
+  return new Promise((resolve, reject) =>
+  {
+    $.ajax(
+      {
+        method: 'DELETE',
+        url: `${firebaseConfig.databaseURL}/blogs/blogs/${blogId}.json`,
+      })
+      .done(() =>
+      {
+        resolve();
+      })
+      .fail((err) =>
+      {
+        reject(err);
+      });
+  });
+};
