@@ -1,1 +1,5 @@
 json/apiKeys.json
+.DS_Store
+lib/node_modules
+Dist
+build/
