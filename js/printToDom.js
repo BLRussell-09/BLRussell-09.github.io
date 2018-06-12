@@ -27,10 +27,15 @@ const createProjectCards =(projectsHere) =>
   // }
 }
 
+const printMe = (domString) =>
+{
+  $('#startHere').prepend(domString);
+}
+
 const domStringMaker = (blogsHere) => {
   var output = '';
   for(i=0; i < blogsHere.length; i++){
-    output = "<div class='jumbotron'><h3>" + blogsHere[i].title + blogsHere[i].date + "</h3>" + "<article>" + blogsHere[i].post + "</article>" + "</div>"
-    prinToDom(output, "startHere");
+    output = "<div class='jumbotron blogCard' data-firebase-id='" + blogsHere[i].id + "'><h3>" + blogsHere[i].title + "<p> </p>" + blogsHere[i].date + "</h3>" + "<article>" + blogsHere[i].post + "</article>" +"<button class='btn btn-danger deleteBlog'>" + 'Delete' + "</button>" + "</div>"
+    printMe(output);
   }
 }
